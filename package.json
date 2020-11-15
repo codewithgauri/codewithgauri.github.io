@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^10.0.1",
+    "github-card": "^1.2.1",
     "postcss-cli": "^8.1.0",
     "tailwindcss": "^1.9.1"
   }
